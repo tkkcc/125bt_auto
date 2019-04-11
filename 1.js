@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         125bt_auto_next
+// @name         125bt_auto
 // @version      0.0.1
 // @include      http://www.125bt.com/play/*
 // @include      http://www.125bt.com/static/player/*
